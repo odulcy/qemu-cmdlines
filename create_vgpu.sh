@@ -1,0 +1,3 @@
+#! /bin/bash
+# You can choose another UUID...
+echo cc6e21bc-2e6e-41b9-ae7e-2a0bfd95885e > /sys/devices/pci0000\:00/0000\:00\:02.0/mdev_supported_types/i915-GVTg_V5_4/create
